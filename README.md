@@ -1,17 +1,13 @@
 ## Windows-10-Installation-Proof-of-Concept
 
 
-**Windows 10 Installation Proof of Concept**
-
-Repository Link: Windows 10 Installation Project
-
 ## Project Overview
 This project demonstrates the feasibility of upgrading to Windows 10 for Tetra Shillings Accounting LLC. It includes step-by-step installation and configuration instructions, ensuring compatibility and minimizing deployment risks.
 
 ## Tools Used
 Operating System: Windows 10
 
-Virtual Environment: VMware Workstation / Hyper-V
+Virtual Environment: VirtualBox
 
 ## Skills Demonstrated
 Conducted a proof-of-concept for Windows 10 installation.
